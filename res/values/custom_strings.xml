@@ -7,42 +7,42 @@
     <string name="supersu_title">SuperSU</string>
 
     <!-- Advanced reboot options -->
-    <string name="advanced_reboot_title">Advanced reboot</string>
-    <string name="advanced_reboot_summary">When unlocked, include options in the power menu for rebooting into recovery or bootloader</string>
+    <string name="advanced_reboot_title">Geavanceerd herstarten</string>
+    <string name="advanced_reboot_summary">Wanneer ontgrendeld, voeg opties voor het herstarten naar recovery of bootloader toe</string>
 
     <!-- app notifications hide on lockscreen -->
-    <string name="app_notification_no_keyguard_title">Hide when locked</string>
-    <string name="app_notification_no_keyguard_summary">Hide notifications of this app when device is locked</string>
-    <string name="filter_notif_no_keyguard">Hidden when locked</string>
-    <string name="notifications_no_keyguard">Hidden when locked</string>
+    <string name="app_notification_no_keyguard_title">Verbergen wanneer vergrendeld</string>
+    <string name="app_notification_no_keyguard_summary">Meldingen van deze app verbergen als het apparaat is vergrendeld</string>
+    <string name="filter_notif_no_keyguard">Verborgen wanneer vergrendeld</string>
+    <string name="notifications_no_keyguard">Verborgen wanneer vergrendeld</string>
     <string name="notifications_four_items"><xliff:g id="notif_state" example="Priority">%1$s</xliff:g> / <xliff:g id="notif_state" example="Priority">%2$s</xliff:g> / <xliff:g id="notif_state" example="Priority">%3$s</xliff:g> / <xliff:g id="notif_state" example="Priority">%4$s</xliff:g></string>
 
-    <string name="other_category">Other</string>
+    <string name="other_category">Anders</string>
 
     <!-- Dashboard columns -->
-    <string name="dashboard_columns_title">Settings columns</string>
-    <string name="dashboard_columns_phone_default">Default</string>
-    <string name="dashboard_columns_two">Two</string>
-    <string name="dashboard_columns_tablet_default">Default</string>
-    <string name="dashboard_columns_three">Three</string>
-    <string name="dashboard_columns_four">Four</string>
+    <string name="dashboard_columns_title">Instellingen kolommen</string>
+    <string name="dashboard_columns_phone_default">Standaard</string>
+    <string name="dashboard_columns_two">Twee</string>
+    <string name="dashboard_columns_tablet_default">Standaard</string>
+    <string name="dashboard_columns_three">Drie</string>
+    <string name="dashboard_columns_four">Vier</string>
 
-    <string name="heads_up_notifications_enabled_title">Allow peeking</string>
-    <string name="heads_up_notifications_enabled_summary">Allow or disable peeking for all notifications</string>
+    <string name="heads_up_notifications_enabled_title">Gluren toestaan</string>
+    <string name="heads_up_notifications_enabled_summary">Gluren toestaan in- of uitschakelen voor alle meldingen</string>
 
-    <string name="battery_title">Battery display</string>
-    <string name="statusbar_battery_summary">Set style of status bar battery display</string>
-    <string name="battery_style_title">Style</string>
-    <string name="battery_percent_title">Show percent</string>
-    <string name="battery_percent_none">Never</string>
-    <string name="battery_percent_always">Always</string>
-    <string name="battery_percent_expanded">Expanded</string>
-    <string name="statusbar_percent_inside_title">Percent overlay</string>
-    <string name="statusbar_percent_inside_summary">Display percent on top of the the battery image</string>
-    <string name="statusbar_charging_image_title">Charging indicator</string>
-    <string name="statusbar_category_charging_title">Charging</string>
-    <string name="statusbar_charging_image_summary">Display bolt indicator while charging. Hides percent overlay</string>
-    <string name="statusbar_battery_charging_color_title">Color</string>
-    <string name="statusbar_battery_charging_color_enable_title">Color while charging</string>
+    <string name="battery_title">Batterij weergave</string>
+    <string name="statusbar_battery_summary">Selecteer de stijl van het batterij icoontje</string>
+    <string name="battery_style_title">Stijl</string>
+    <string name="battery_percent_title">Weergeef percentage</string>
+    <string name="battery_percent_none">Nooit</string>
+    <string name="battery_percent_always">Altijd</string>
+    <string name="battery_percent_expanded">Uitgebreid</string>
+    <string name="statusbar_percent_inside_title">Percentage overlay</string>
+    <string name="statusbar_percent_inside_summary">Weergeef percentage bovenop de batterij afbeelding</string>
+    <string name="statusbar_charging_image_title">Oplaad indicator</string>
+    <string name="statusbar_category_charging_title">Opladen</string>
+    <string name="statusbar_charging_image_summary">Weergeef dikgedrukte indicator gedurende het opladen, verbergt percentage overlay</string>
+    <string name="statusbar_battery_charging_color_title">Kleur</string>
+    <string name="statusbar_battery_charging_color_enable_title">Kleur gedurende het opladen</string>
     <string name="statusbar_battery_charging_color_enable_summary"></string>
 </resources>
