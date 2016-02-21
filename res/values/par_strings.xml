@@ -17,10 +17,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
      <!--PAR Version-->
-     <string name="par_version">Darkobas Version</string>
-     <string name="par_version_default">Unknown unofficial build</string>
+     <string name="par_version">Darkobas Versie</string>
+     <string name="par_version_default">Onbekende onofficiële build</string>
 
      <!--CAF Branch-->
      <string name="par_branch">CodeAurora Branch</string>
-     <string name="par_branch_default">Unknown</string>
+     <string name="par_branch_default">Onbekend</string>
 </resources>
